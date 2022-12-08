@@ -1,4 +1,4 @@
-# Token WVPN
+# 🔸 Token WVPN
 
 Token: WalletVPN&#x20;
 

@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Tor (anonymity network)
+# ▫ Tor (anonymity network)
 
