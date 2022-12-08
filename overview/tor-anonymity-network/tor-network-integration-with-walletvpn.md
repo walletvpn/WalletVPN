@@ -16,5 +16,5 @@ Every <mark style="background-color:orange;">**WalletVPN**</mark> process is bas
 
 <figure><img src="../../.gitbook/assets/2-removebg-preview.png" alt=""><figcaption><p><strong>Your web traffic goes through thousands of layers of decryption when connecting to the Internet via WalletVPN.</strong></p></figcaption></figure>
 
-
+<figure><img src="../../.gitbook/assets/Capturar.JPG" alt=""><figcaption><p><strong>WalletVPN uses protocols to ensure that web traffic is fully encrypted</strong></p></figcaption></figure>
 
