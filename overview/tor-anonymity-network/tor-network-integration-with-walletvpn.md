@@ -1,0 +1,14 @@
+---
+coverY: 0
+---
+
+# 🔸 Tor network integration with WalletVPN
+
+<mark style="background-color:orange;">**WalletVPN**</mark>** ** will use the Tor network, which, like the page below, brings with it several security concepts, but above all an **anonymous network**, far away from inspections and organizations with the purpose of taxing your transactions and negotiations. Our protocol hides cloaking activities and blocks tracking, and with this we will have concepts of registrations without the need for **KYC PROCESSES.**
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+Every <mark style="background-color:orange;">**WalletVPN**</mark> process is based on the tor network, we will show below how our <mark style="background-color:orange;">**WalletVPN / Tor**</mark> protocol inputs and nodes work:
+
