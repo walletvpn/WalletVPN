@@ -10,11 +10,11 @@ The **WalletVPN** family includes Multiwallet (iOS, Android and web version), 30
 
 #### Objective
 
-Our objectivel from day one was to develop applications that allow users to become familiar with popular cryptocurrencies without having to delve into specific technical features and complex configurations
+* [x] Our objectivel from day one was to develop applications that allow users to become familiar with popular cryptocurrencies without having to delve into specific technical features and complex configurations
 
 #### Our values
 
-Our team consists of 30 people who are very passionate about what they do. We read all the comments received and use them all to adjust the tour to our users' expectations. Our main values:
+* [x] Our team consists of 30 people who are very passionate about what they do. We read all the comments received and use them all to adjust the tour to our users' expectations. Our main values:
 
 #### WalletVPN is a business
 
@@ -27,3 +27,15 @@ Our team consists of 30 people who are very passionate about what they do. We re
 #### Reputation Matters
 
 * [x] As a company, we are investing heavily in customer support and in our ongoing development. We are not perfect, but we never put our reputation at risk on purpose. We are making cryptocurrency easy for beginners, experienced and respectful miners. We want to make the benefits of blockchain available to as many people from as many places as possible
+
+#### Multi Wallet&#x20;
+
+* [x] Securely manage multiple wallets that can store each token in one application.
+
+#### Non Custodial
+
+* [x] Have exclusive control over your funds without relying on a custodian.
+
+#### Decentralized
+
+* [x] Access and transact anytime, anywhere as long as the internet is available.
