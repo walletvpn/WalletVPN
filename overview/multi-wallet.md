@@ -4,7 +4,7 @@ coverY: 0
 
 # ▫ Multi Wallet
 
-#### A secure wallet for all your cryptocurrencies&#x20;
+#### <mark style="background-color:orange;">A secure wallet for all your cryptocurrencies</mark>&#x20;
 
 Our encrypted desktop and mobile wallet offers users a wide range of security options, from 2FA to email transaction confirmation.
 

@@ -4,7 +4,7 @@ coverY: 0
 
 # 💼 WalletVPN
 
-<mark style="color:orange;background-color:orange;">**WalletVPN**</mark> developed a range of digital currency wallets with a web-based exchange, iOS and Android devices capable of storing 100 cryptocurrencies including Bitcoin, Ethereum, Litecoin, Dogecoin, Monero and Bytecoin in one place.&#x20;
+<mark style="background-color:orange;">**WalletVPN**</mark>  developed a range of digital currency wallets with a web-based exchange, iOS and Android devices capable of storing 100 cryptocurrencies including Bitcoin, Ethereum, Litecoin, Dogecoin, Monero and Bytecoin in one place.&#x20;
 
 The <mark style="background-color:orange;">**WalletVPN**</mark> family includes Multiwallet (iOS, Android and web version), 30 individual wallets each tailored to a specific currency, and <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**WVPN.**</mark>
 
@@ -43,3 +43,11 @@ Bypass the traditional layers of the financial ecosystem and enter the world of 
 * **DeFi Enabled -** Exchange assets, rent assets and interact with any DeFi service through WalletConnect.
 * **Investor Oriented  -** Explore and navigate the crypto market with institutional level analysis.
 * **Action Alerts -**  Be among the first to react to market events that affect price. Soon!
+
+#### <mark style="background-color:orange;">Stay Private</mark>
+
+Use a tool that is designed to work for you, has no way of tracking you, and takes extra steps to ensure privacy from prying eyes.
+
+* **Genuinely Private -** No server has user accounts or credentials of any kind.
+* **No Checks -** The application does not contain traditional financial elements that require authentication.
+* **TOR Enabled -** Keep your connection context private, even to your ISP.

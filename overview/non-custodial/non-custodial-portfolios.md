@@ -8,7 +8,7 @@ Now we understand what a custodial wallet is, and its main pros and cons, what a
 
 This means that if the owner somehow loses/lost the keys, the cryptocurrency in the wallet could be lost forever. As noted earlier, they can come in the form of web browser-based software, common downloadable software, hardware, or in paper form. **Hardware wallets are widely seen as the most secure way to store cryptocurrency wallet keys.**
 
-#### Pros of the Custodyless Wallet&#x20;
+#### <mark style="background-color:orange;">Pros of the Custodyless Wallet</mark>&#x20;
 
 As cryptocurrency purists who seek to completely throw off the yoke of government/centralized financial institutions argue, **custodless wallets give investors complete control over their assets.** When stored in a non-custodial wallet, no centralized entity can confiscate or freeze a digital asset.
 
