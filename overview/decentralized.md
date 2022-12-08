@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Decentralized
+# 🔸 Decentralized
 

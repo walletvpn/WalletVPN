@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Non Custodial
+# 🔸 Non Custodial
 
 One of the first conundrums faced by cryptocurrency beginners is the wallet , a place where all digital assets are **"stored"**. Technically speaking, unlike money in a physical wallet, cryptoassets do not reside inside a digital asset wallet. Understanding cryptocurrency wallets is therefore a prerequisite for anyone who wants to participate in the rapidly growing **decentralized cryptocurrency-based financial system.**
 

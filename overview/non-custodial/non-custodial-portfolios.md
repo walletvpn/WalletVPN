@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# non-custodial portfolios
+# ▫ non-custodial portfolios
 
 Now we understand what a custodial wallet is, and its main pros and cons, what about non-custodial wallets? **This is a type of wallet where the owner of the cryptocurrency takes direct responsibility for managing its keys.**
 

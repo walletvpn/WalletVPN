@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# WVPN Non-custodial wallet
+# ▫ WVPN Non-custodial wallet
 
 #### Benefits of having a non-custodial WVPN portfolio:
 

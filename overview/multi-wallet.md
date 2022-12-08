@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Multi Wallet
+# ▫ Multi Wallet
 
 #### A secure wallet for all your cryptocurrencies&#x20;
 

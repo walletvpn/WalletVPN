@@ -4,38 +4,42 @@ coverY: 0
 
 # 💼 WalletVPN
 
-**WalletVPN** developed a range of digital currency wallets with a web-based exchange, iOS and Android devices capable of storing 100 cryptocurrencies including Bitcoin, Ethereum, Litecoin, Dogecoin, Monero and Bytecoin in one place.&#x20;
+<mark style="color:orange;background-color:orange;">**WalletVPN**</mark> developed a range of digital currency wallets with a web-based exchange, iOS and Android devices capable of storing 100 cryptocurrencies including Bitcoin, Ethereum, Litecoin, Dogecoin, Monero and Bytecoin in one place.&#x20;
 
-The **WalletVPN** family includes Multiwallet (iOS, Android and web version), 30 individual wallets each tailored to a specific currency, and **WVPN.**
+The <mark style="background-color:orange;">**WalletVPN**</mark> family includes Multiwallet (iOS, Android and web version), 30 individual wallets each tailored to a specific currency, and <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**WVPN.**</mark>
 
-#### Objective
+#### <mark style="background-color:orange;">Objective</mark>
 
-* [x] Our objectivel from day one was to develop applications that allow users to become familiar with popular cryptocurrencies without having to delve into specific technical features and complex configurations
+Our objectivel from day one was to develop applications that allow users to become familiar with popular cryptocurrencies without having to delve into specific technical features and complex configurations
 
-#### Our values
+#### <mark style="background-color:orange;">Our values</mark>
 
-* [x] Our team consists of 30 people who are very passionate about what they do. We read all the comments received and use them all to adjust the tour to our users' expectations. Our main values:
+Our team consists of 30 people who are very passionate about what they do. We read all the comments received and use them all to adjust the tour to our users' expectations. Our main values:
 
-#### WalletVPN is a business
+#### <mark style="background-color:orange;">WalletVPN is a business</mark>
 
 * [x] The development was initially funded by a group of private investors. We bring a great product to our users, but we always measure our resources with reality and consider how our actions can affect the revenue stream.
 
-#### We support freedom
+#### <mark style="background-color:orange;">We support freedom</mark>
 
 * [x] We support anonymity and have a decentralized vision of the future. Above all, however, we support freedom of choice. The more choices consumers and businesses have, in the form of a decentralized or centralized system, the better.
 
-#### Reputation Matters
+#### <mark style="background-color:orange;">Reputation Matters</mark>
 
 * [x] As a company, we are investing heavily in customer support and in our ongoing development. We are not perfect, but we never put our reputation at risk on purpose. We are making cryptocurrency easy for beginners, experienced and respectful miners. We want to make the benefits of blockchain available to as many people from as many places as possible
 
-#### Multi Wallet&#x20;
+#### <mark style="background-color:orange;">Unchain Assets</mark>
 
-* [x] Securely manage multiple wallets that can store each token in one application.
+Protect capital from inflation, confiscation or censorship. Don't let companies freeze your assets or prevent you from trading.
 
-#### Non Custodial
+* **Multi Wallet -** Securely manage multiple wallets that can store each token in one application.
+* **Non Custodial -** Have exclusive control over your funds without relying on a custodian.
+* **Decentralized -** Access and transact anytime, anywhere as long as the internet is available.
 
-* [x] Have exclusive control over your funds without relying on a custodian.
+#### <mark style="background-color:orange;">Go Borderless</mark>
 
-#### Decentralized
+Bypass the traditional layers of the financial ecosystem and enter the world of decentralized finance (DeFi) with unconditional opportunity.
 
-* [x] Access and transact anytime, anywhere as long as the internet is available.
+* **DeFi Enabled -** Exchange assets, rent assets and interact with any DeFi service through WalletConnect.
+* **Investor Oriented  -** Explore and navigate the crypto market with institutional level analysis.
+* **Action Alerts -**  Be among the first to react to market events that affect price. Soon!
