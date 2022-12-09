@@ -6,6 +6,14 @@ coverY: 0
 
 <mark style="background-color:orange;">****</mark>
 
+<mark style="background-color:orange;">**WalletVPN**</mark> brings you a multi-currency that supports BTC, ETH and Z cash, fully protected, with an innovation in the process, where for registration there is no need for **KYC procedures**, thanks to the **Tor** networks and protocols that complement our <mark style="background-color:orange;">**WalletVPN**</mark>, it has a strong and user-centric architecture, in which its users have their own keys and their own privacy.
+
+A version web and Android platform (IOS coming soon) with fully intuitive visual aspects, conditioning from the most expert in the market, even the first contact of a new investor !
+
+<mark style="background-color:orange;">**WalletVPN**</mark> is fully decentralized, where transactions can be made anywhere and anytime, as long as there is internet, not custody! This is a very important factor for investors to have total control over their funds.
+
+<mark style="background-color:orange;">**WalletVP**</mark> unites the most current **DeFi** concepts, stock alerts and even investor guidance ! Everything to bring our investors a unique and exclusive experience.
+
 <mark style="background-color:orange;">**WalletVPN**</mark>  developed a range of digital currency wallets with a web-based exchange, iOS and Android devices capable of storing 100 cryptocurrencies including Bitcoin, Ethereum, Litecoin, Dogecoin, Monero and Bytecoin in one place.&#x20;
 
 The <mark style="background-color:orange;">**WalletVPN**</mark> family includes Multiwallet (iOS, Android and web version), 30 individual wallets each tailored to a specific currency, and <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**WVPN.**</mark>
