@@ -12,7 +12,7 @@
 * [🔸 Decentralized](overview/decentralized.md)
 * [▫ Tor (anonymity network)](overview/tor-anonymity-network/README.md)
   * [🔸 Tor network integration with WalletVPN](overview/tor-anonymity-network/tor-network-integration-with-walletvpn.md)
-* [🔸 Integrated DeFi](overview/integrated-defi/README.md)
+* [🔸 Integrated DeFi](overview/integrated-defi.md)
   * [▫ WVPN DeFi](overview/integrated-defi/wvpn-defi.md)
 * [▫ App IOS and Android](overview/app-ios-and-android.md)
 * [🔸 Token WVPN](overview/token-wvpn/README.md)
