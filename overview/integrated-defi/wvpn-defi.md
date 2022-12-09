@@ -13,3 +13,17 @@ coverY: 0
 * Prediction market;
 
 #### <mark style="background-color:orange;">We have a payment system via blockchain</mark>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Defi 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Defi 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Defi 3.png" alt=""><figcaption></figcaption></figure>
+
+</div>

@@ -19,3 +19,16 @@ Every <mark style="background-color:orange;">**WalletVPN**</mark> process is bas
 
 <figure><img src="../../.gitbook/assets/Capturar.JPG" alt=""><figcaption><p><strong>WalletVPN uses protocols to ensure that web traffic is fully encrypted</strong></p></figcaption></figure>
 
+<div>
+
+<figure><img src="../../.gitbook/assets/TOR 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/TOR 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/TOR 3.png" alt=""><figcaption></figcaption></figure>
+
+</div>

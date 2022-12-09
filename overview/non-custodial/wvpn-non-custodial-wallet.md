@@ -11,5 +11,7 @@ coverY: 0
 * Custody-free <mark style="background-color:orange;">**WalletVPN**</mark> are highly user-friendly
 * Completely secure and reliable.
 
+<figure><img src="../../.gitbook/assets/No custodial.png" alt=""><figcaption></figcaption></figure>
+
 
 

@@ -62,3 +62,5 @@ Use a tool that is designed to work for you, has no way of tracking you, and tak
 * **Genuinely Private -** No server has user accounts or credentials of any kind.
 * **No Checks -** The application does not contain traditional financial elements that require authentication.
 * **TOR Enabled -** Keep your connection context private, even to your ISP.
+
+<figure><img src=".gitbook/assets/Menu.png" alt=""><figcaption></figcaption></figure>
