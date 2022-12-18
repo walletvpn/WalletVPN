@@ -17,7 +17,7 @@ A version web and Android platform (IOS coming soon) with fully intuitive visual
 
 <mark style="background-color:orange;">**WalletVPN**</mark>  developed a range of digital currency wallets with a web-based exchange, iOS and Android devices capable of storing 100 cryptocurrencies including Bitcoin, Ethereum, Litecoin, Dogecoin, Monero and Bytecoin in one place.&#x20;
 
-The <mark style="background-color:orange;">**WalletVPN**</mark> family includes Multiwallet (iOS, Android and web version), 30 individual wallets each tailored to a specific currency, and <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**WVPN.**</mark>
+The <mark style="background-color:orange;">**WalletVPN**</mark> family includes Multiwallet (iOS and Android), 30 individual wallets each tailored to a specific currency, and <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**WVPN.**</mark>
 
 #### <mark style="background-color:orange;">Objective</mark>
 
