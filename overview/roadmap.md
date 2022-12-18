@@ -13,7 +13,3 @@ coverY: 0
 |     Whitepaper release     | Firlaunch at Pinksale |           Chatbot          |    Fairlaunch at Pinksale   |            Cross Chain           |                                       |
 |    Audit Smart Contract    |   Massive Marketing   |         Partnership        |      Launchpad Planning     |       Build collection NFT       |                                       |
 |             KYC            | Launch at Pancakeswap |      Staking & Farming     |   Launchpad UI/UX Designer  |           NFT Giveaway           |                                       |
-|                            |                       |                            |                             |                                  |                                       |
-|                            |                       |                            |                             |                                  |                                       |
-
-<mark style="background-color:orange;">**Comming soon...**</mark>
