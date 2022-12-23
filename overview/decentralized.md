@@ -9,4 +9,6 @@ coverY: 0
 
 &#x20;Bitcoin was designed as a decentralized alternative to government money and therefore has no single point of failure, making it more resilient, efficient, and democratic. Its underlying technology, the Blockchain, is what enables this decentralization, as it offers each user an opportunity to become one of the network's many payment processors. Since the emergence of Bitcoin, many other cryptocurrencies or altcoins have appeared, and more often than not, they too use the Blockchain to achieve some degree of decentralization.
 
+{% embed url="https://youtu.be/U7__fJT2mrw" %}
+
 <figure><img src="../.gitbook/assets/Decentralizado.png" alt=""><figcaption></figcaption></figure>

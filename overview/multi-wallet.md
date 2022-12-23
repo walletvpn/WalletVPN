@@ -15,6 +15,8 @@ Most coins are kept offline in cold storage to protect them from hackers and pre
 2. The coins are kept in cold storage
 3. Confirmation of multiple signatures for each transaction
 
+{% embed url="https://youtu.be/VuYNfaiMqR8" %}
+
 {% embed url="https://markets.walletvpn.io/" %}
 
 <figure><img src="../.gitbook/assets/Multi Wallet.png" alt=""><figcaption></figcaption></figure>
