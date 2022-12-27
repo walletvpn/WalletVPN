@@ -27,10 +27,6 @@ Our objectivel from day one was to develop applications that allow users to beco
 
 Our team consists of 30 people who are very passionate about what they do. We read all the comments received and use them all to adjust the tour to our users' expectations. Our main values:
 
-#### <mark style="background-color:orange;">WalletVPN is a business</mark>
-
-* [x] The development was initially funded by a group of private investors. We bring a great product to our users, but we always measure our resources with reality and consider how our actions can affect the revenue stream.
-
 #### <mark style="background-color:orange;">We support freedom</mark>
 
 * [x] We support anonymity and have a decentralized vision of the future. Above all, however, we support freedom of choice. The more choices consumers and businesses have, in the form of a decentralized or centralized system, the better.
@@ -62,5 +58,7 @@ Use a tool that is designed to work for you, has no way of tracking you, and tak
 * **Genuinely Private -** No server has user accounts or credentials of any kind.
 * **No Checks -** The application does not contain traditional financial elements that require authentication.
 * **TOR Enabled -** Keep your connection context private, even to your ISP.
+
+
 
 <figure><img src=".gitbook/assets/Menu.png" alt=""><figcaption></figcaption></figure>
