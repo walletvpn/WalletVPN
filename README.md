@@ -9,7 +9,7 @@ coverY: 0
 
 <mark style="background-color:orange;">**WalletVPN**</mark> brings you a multi-currency that supports BTC, ETH and Z cash, fully protected, with an innovation in the process, where for registration there is no need for **KYC procedures**, thanks to the **Tor** networks and protocols that complement our <mark style="background-color:orange;">**WalletVPN**</mark>, it has a strong and user-centric architecture, in which its users have their own keys and their own privacy.
 
-A version web and Android platform (IOS coming soon) with fully intuitive visual aspects, conditioning from the most expert in the market, even the first contact of a new investor !
+A ve Android platform (IOS coming soon) with fully intuitive visual aspects, conditioning from the most expert in the market, even the first contact of a new investor !
 
 <mark style="background-color:orange;">**WalletVPN**</mark> is fully decentralized, where transactions can be made anywhere and anytime, as long as there is internet, not custody! This is a very important factor for investors to have total control over their funds.
 
