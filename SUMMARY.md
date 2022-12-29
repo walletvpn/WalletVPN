@@ -15,7 +15,7 @@
 * [🔸 AI Integration with WVPN](overview/ai-integration-with-wvpn.md)
 * [🔸 Integrated DeFi](overview/integrated-defi.md)
   * [▫ WVPN DeFi](overview/integrated-defi/wvpn-defi.md)
-* [▫ App IOS and Android](overview/app-ios-and-android.md)
+* [▫ App Android and IOS (comming soon)](overview/app-android-and-ios-comming-soon.md)
 * [🔸 Token WVPN](overview/token-wvpn/README.md)
   * [▫ Token Metrics](overview/token-wvpn/token-metrics.md)
   * [🔸 Taxes](overview/token-wvpn/taxes.md)

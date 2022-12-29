@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/CAPA.png
 coverY: 0
 ---
 
-# 🔶 AI Integration with WVPN
+# 🔸 AI Integration with WVPN
 
 _Processing data in untrusted environments and sharing and analyzing multi-party data have become critical items for an organization's success. Rather than taking a fuzzy approach, the increasing complexity of data analytics engines and architectures requires vendors to incorporate a privacy by design feature._
 
